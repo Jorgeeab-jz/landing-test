@@ -17,7 +17,7 @@ body {
     -webkit-filter: blur(10px);
     transition: all 500ms;
 }
-#yt {
+.yti {
  color: white;
 }
 .header:hover::after {
