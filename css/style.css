@@ -16,10 +16,9 @@ body {
     filter: blur(10px);
     -webkit-filter: blur(10px);
     transition: all 500ms;
-
 }
 #yt {
- color> white;
+ color: white;
 }
 .header:hover::after {
     filter: blur(0px);
