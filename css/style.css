@@ -18,7 +18,9 @@ body {
     transition: all 500ms;
 
 }
-
+#yt {
+ color> white;
+}
 .header:hover::after {
     filter: blur(0px);
     -webkit-filter: blur(0px);
